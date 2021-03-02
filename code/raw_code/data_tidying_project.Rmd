@@ -1,7 +1,7 @@
 ---
 title: "Data Tidying Project"
-author: "Jane Doe"
-date: "6/13/2018"
+author: "Hatsuho"
+date: "2021/03/01"
 output: html_document
 ---
 
